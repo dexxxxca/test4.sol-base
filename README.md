@@ -14,3 +14,4 @@ astt
 tast
 astt
 astas
+stat
