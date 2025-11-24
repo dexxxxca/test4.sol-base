@@ -8,11 +8,3 @@ st
 ast
 atst
 ats
-tsts
-astas
-astt
-tast
-astt
-astas
-stat
-sadt
