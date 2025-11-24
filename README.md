@@ -4,3 +4,4 @@ ast
 tas
 sta
 st
+st
