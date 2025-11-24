@@ -9,3 +9,4 @@ ast
 atst
 ats
 tsts
+astas
